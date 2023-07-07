@@ -7,15 +7,25 @@ Hey there, reader! I'm Memphis, and I'm currently 15 years old as of writing thi
 I've got big dreams of becoming a kick-ass front-end developer. To make that happen, there's a whole bunch of stuff I need to get under my belt:
 
 • I gotta nail down the basics of computer science.
+
 • Understanding how the web works is essential.
+
 • HTML, CSS, and JS are my bread and butter, so I want to be a pro at those.
+
 • Web security is a must-know for me.
+
 • SEO (Search Engine Optimization) is something I need to master.
+
 • Version control with Git is crucial.
-•I want to dive into the world of jQuery and leverage its power.
+
+• I want to dive into the world of jQuery and leverage its power.
+
 • Typescript is something I need to explore and get comfortable with.
+
 • When it comes to frameworks, I've got my eyes on React, Angular, or Vue.
+
 • Bootstrap is gonna be super handy for me.
+
 • And last but not least, I want to rock it with SASS for efficient styling.
 
 I'm all ears for any suggestions or feedback you might have. Seriously, if I mess something up or if there's a better way to do things, please let me know!
