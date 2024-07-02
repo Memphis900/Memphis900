@@ -1,5 +1,4 @@
 # MEMPHIS MILNE -  GITHUB
-___
 
 ## 👋 INTRODUCTION
 
@@ -7,20 +6,21 @@ Hello, and welcome to my Github profile. My name is Memphis Milne, and I am a UK
 
 ## 😀 About me
 
-I find It worth mentioning I have Tourettes syndrome, although it does not effect my ability to function, it can be noticable, I have many coping mechanisms to prevent it from becoming too much for myself and others!
+I find It worth mentioning I have Tourettes syndrome, although it does not effect my ability to function, it can be noticable. I have many coping mechanisms to prevent it from becoming too much for myself and others!
 
 ## 🔗 Links 
 
 Here are some links worth mentioning:
 
-[https://www.freecodecamp.org/Memphis_Milne](freeCodeCamp)
+[FreeCodeCamp](https://www.freecodecamp.org/Memphis_Milne)
 
 ## 📨 Contact Infomation
 
-E-mail: memphismilne@gmail.com
+E-mail: [memphismilne@gmail.com](mailto:memphismilne+github@gmail.com)
 
 ## Relevant Certifications and Qualifications
 
+*It's a little empty here - I am currently learning the ropes.*
 
 ## 👋 Outro
 
