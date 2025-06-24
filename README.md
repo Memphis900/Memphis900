@@ -1,33 +1,47 @@
+# 👋 Hello, I'm Memphis  
+**IT Student @ Portsmouth College** | Python Developer | Linux Enthusiast | App Creator  
 
-# MEMPHIS MILNE -  GITHUB
+🔹 **About Me**  
+- 🐍 **Python Developer** – Building GUIs with **PyQt6/Tkinter** | Focused on clean, efficient code  
+- 🐧 **Linux Power User** – Daily driver who loves system optimization & automation  
+- 🚀 **Fast Learner** – Constantly exploring new topics (current obsession: **Reverse engineering**)  
+- 🛠️ **Problem Solver** – Debugging & performance optimization are my superpowers  
+- 📚 **Knowledge Collector** – Zettelkasten method for structured learning  
+- 🐱 **Fun Fact** – Cat photographer in training!  
 
+---
 
-## 👋 INTRODUCTION
+### 🛠️ Tech Stack  
+**Strong:**  
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)  
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)  
 
+**Exploring:**  
+![PyQt6](https://img.shields.io/badge/PyQt6-41CD52?logo=qt)  
+![Tkinter](https://img.shields.io/badge/Tkinter-3776AB?logo=python)  
+![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash)  
 
-Hello, and welcome to my Github profile. My name is Memphis Milne, and I am a UK based aspiring app developer.
+**To explore**
 
+![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat)
+![CSS Badge](https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff&style=flat)
+![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat)
+![SQLite Badge](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=fff&style=flat)
 
-## 😀 About me
+---
 
+### 🧠 Learning Philosophy  
+> *"I thrive when absorbing new concepts – the steeper the learning curve, the better!"*  
+- Currently diving into: Sustainable Productivity.
+---
 
-I find It worth mentioning I have Tourettes syndrome, although it does not effect my ability to function, it can be noticable. I have many coping mechanisms to prevent it from becoming too much for myself and others!
+### 🤝 Collaboration Style  
+- 💡 **I excel at:** Rapid prototyping | Performance optimization | Linux wizardry  
+- 🌱 **Looking for:** Mentors | Open-source projects 
+- 🎯 **Goal:** Build a modern, FOSS IRC Client.
 
+---
 
-## 🔗 Links 
+### Let's Connect 🤝
 
-
-Here are some links worth mentioning:
-
-
-[FreeCodeCamp](https://www.freecodecamp.org/Memphis_Milne)
-
-
-## Relevant Certifications and Qualifications
-
-
-*It's a little empty here - I am currently learning the ropes.*
-
-## 👋 Outro
-
-Goodbye for now, reader!
+[![Email](https://img.shields.io/badge/Email-EA4335?logo=gmail)](mailto:memphismilne+github@gmail.com)
